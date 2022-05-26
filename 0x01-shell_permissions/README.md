@@ -1,1 +1,1 @@
-T0 switches current user T1 who am i
+T0 switches current user T1 who am i T2 groups
