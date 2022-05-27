@@ -1,1 +1,1 @@
-pwd T1 list T2 cd T3 list files
+pwd T1 list T2 cd T3 list files T4 list more files
