@@ -1,1 +1,1 @@
-pwd T1 list
+pwd T1 list T2 cd
