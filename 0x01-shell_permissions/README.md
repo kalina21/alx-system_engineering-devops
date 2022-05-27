@@ -1,1 +1,1 @@
-T0 switches current user T1 who am i T2 groups T3 new owner T4 empty T5 excute T6 multi permissions T7 everybody T8 james bond T9 john doe T10 mirror permissions T11 D-permissions T12 more dir T13 change group T14 change o and g T15 symblic
+T0 switches current user T1 who am i T2 groups T3 new owner T4 empty T5 excute T6 multi permissions T7 everybody T8 james bond T9 john doe T10 mirror permissions T11 D-permissions T12 more dir T13 change group T14 change o and g T15 symblic T16 if only
