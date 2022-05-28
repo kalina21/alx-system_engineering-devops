@@ -1,1 +1,1 @@
-pwd T1 list T2 cd T3 list files T4 list more files T5 list files digit T6 first dir T7 move file T8 delete T9 delete first dir T10 back to future T11 lists T12 file type T13 symbolic link T14 copy html T15 move T16 clean emacs T17tree
+pwd T1 list T2 cd T3 list files T4 list more files T5 list files digit T6 first dir T7 move file T8 delete T9 delete first dir T10 back to future T11 lists T12 file type T13 symbolic link T14 copy html T15 move T16 clean emacs T17tree T18 commas
