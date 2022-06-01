@@ -1,1 +1,1 @@
- T0 creates an alias T1 hello you T2 path T3 counts the no of dir T4 list g var T5 local var T6 best school T7 local T8 True knowledge T9 divide and rule T10 exponent T11 binary to decimal T12 combinations T13 float. T14 decimal to hexa
+ T0 creates an alias T1 hello you T2 path T3 counts the no of dir T4 list g var T5 local var T6 best school T7 local T8 True knowledge T9 divide and rule T10 exponent T11 binary to decimal T12 combinations T13 float. T14 decimal to hexa T15 ASCII
